@@ -1,0 +1,4 @@
+Website Guidelines
+
+This file must be ignored as it may cause major impact to your host device network system
+
